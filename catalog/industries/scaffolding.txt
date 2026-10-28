@@ -1,0 +1,13 @@
+GLOVE|7776|TEGERA® DYNAMIC STRENGTH 7776|Impact-reducing glove, fully lined, full grain goatskin, cut resistance level D
+GLOVE|7773|TEGERA® DYNAMIC STRENGTH 7773|Impact-reducing glove, fully lined, full grain goatskin, cut resistance level E, KEVLAR® fiber
+GLOVE|7775|TEGERA® DYNAMIC STRENGTH 7775|Impact-reducing glove, fully lined, full grain goatskin, cut resistance level E, KEVLAR® fiber
+GLOVE|9205|TEGERA® PRO 9205|Extra protection for palm and knuckles, designed for handheld tools and high durability
+GLOVE|9125|TEGERA® PRO 9125|Perfect for hand-held tools
+GLOVE|8831R|TEGERA® 8831R|Cold protection combined with high cut protection (D), palm dipped
+SHOE|9945|JALAS® EXALTER 9945|Mid-cut with ventilation and BOA®
+SHOE|9985|JALAS® EXALTER 9985|Mid-cut, water repellant with BOA
+SHOE|1718|JALAS® ZENIT 1718|Light mid-cut boot with BOA® Fit System and S3 protection
+HAZARD|Falls from height
+HAZARD|Dropped objects causing hand and body impacts
+HAZARD|Pinch and bang injuries to hands
+HAZARD|Outdoor exposure to weather conditions

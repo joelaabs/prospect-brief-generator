@@ -1,0 +1,12 @@
+GLOVE|261|TEGERA® 261|Electrically heated liner gloves worn under safety gloves
+GLOVE|6299|TEGERA® SUBZERO 6299|Extended warmth and contact cold protection
+GLOVE|6295|TEGERA® SUBZERO 6295|Wool lined glove for extreme cold
+GLOVE|295|TEGERA® 295|Popular quality leather waterproof glove
+GLOVE|8854R|TEGERA® OIL GRIP 8854R|Winter glove with great grip
+GLOVE|9190|TEGERA® PRO 9190|Winter lined with wrist support
+GLOVE|288|TEGERA® 288|Thin and flexible, wind- and waterproof, for cool and wet conditions
+SHOE|1398|JALAS® HEAVY DUTY 1398 WINTER GTX|A GORE-TEX boot for very cold winters
+SHOE|7198|JALAS® ZENIT EVO 7198|Sporty winter boot
+HAZARD|Sub-zero temperatures causing cold stress
+HAZARD|Snow and ice on work surfaces
+HAZARD|Wet conditions compromising warmth

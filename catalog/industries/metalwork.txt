@@ -1,0 +1,11 @@
+GLOVE|11CVA|TEGERA® WELDING 11CVA|Top quality chrome free welding glove
+GLOVE|585A|TEGERA® WELDING 585A|Strong protection against heat
+GLOVE|132A|TEGERA® WELDING 132A|Welding glove with cut resistance B
+GLOVE|8805|TEGERA® INFINITY 8805|Super soft, palm dipped, cut B glove
+GLOVE|450|TEGERA® 450|Cut and heat protection combined
+SHOE|1948S|JALAS® GRAN PREMIO 1948S METATARSAL|Metatarsal impact protection boot
+SHOE|1228W|JALAS® 1228W|Mid-cut boot with hidden BOA® Fit System
+SHOE|1678W|JALAS® GRAN PREMIO 1678W|Welding boot with Thinsulate™ lining
+HAZARD|Welding heat, sparks and spatter
+HAZARD|Hot metal particles and grinding sparks
+HAZARD|Chemical splashes

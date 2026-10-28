@@ -1,0 +1,10 @@
+GLOVE|295|TEGERA® 295|Popular quality leather waterproof glove
+GLOVE|9205|TEGERA® PRO 9205|Extra protection for palm and knuckles
+GLOVE|55|TEGERA® 55|Strong half-lined leather glove
+GLOVE|6614|TEGERA® 6614|For good grip in oily environments
+GLOVE|8833|TEGERA® 8833|Shut out the winter, shut out the wet
+SHOE|9988|JALAS® EXALTER 9988 GTX|A mid-cut safety shoe with GORE-TEX
+SHOE|3780|JALAS® GRIP 3780 FOODS|For high hygienic requirement areas
+HAZARD|Hand injuries from animals, machinery and tools
+HAZARD|Mud, debris and cold, wet conditions
+HAZARD|Cuts, blisters and irritating substances

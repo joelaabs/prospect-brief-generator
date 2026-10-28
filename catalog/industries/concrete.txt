@@ -1,0 +1,8 @@
+GLOVE|PRO|TEGERA PRO collection|Ejendals' most popular safety gloves, created with professionals
+GLOVE|INFINITY|TEGERA Infinity collection|So snug, comfortable and sensitive it doesn't feel like a glove
+GLOVE|WINTERCUT|TEGERA Winter Cut collection|Cut protection for the chillier seasons
+SHOE|HD|JALAS Heavy Duty collection|Ultra-durable, extreme safety features, ergonomic and comfortable
+HAZARD|Cut injuries from pulling, dragging and carrying heavy rebar
+HAZARD|Tripping and falling, the most common accident
+HAZARD|Heavy lifting throughout the workday
+HAZARD|Cold weather exposure

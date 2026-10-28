@@ -1,0 +1,9 @@
+GLOVE|882|TEGERA® 882|Fully dipped, smart elastic wristlet
+GLOVE|8162|TEGERA® 8162|Fisherman's best friend
+GLOVE|7350|TEGERA® CHEMFORCE 7350|Keep the heat and the grip
+GLOVE|7799|TEGERA® DYNAMIC STRENGTH 7799|Premium cut protection glove
+GLOVE|4640|TEGERA® 4640|Warm and thin with touchscreen function
+SHOE|1398|JALAS® HEAVY DUTY 1398 WINTER GTX|A GORE-TEX boot for very cold winters
+HAZARD|Wet and cold working conditions
+HAZARD|Long hours in harsh weather
+HAZARD|Hand and foot injuries

@@ -22,10 +22,30 @@ _Generated from OSHA 2025 data and the Metalworking & Machinery playbook. No web
 - grinding vibration and abrasion
 - heat and sparks in welding, foundry or heat-treat areas
 
-## Recommended Tegera styles
-- **TEGERA 43001**: cut protection with grip on oily parts. Most popular cut-resistant glove; PU palm, good grip, high flexibility. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
-- **TEGERA 8846**: thin cut glove for inspection and fine work. Very thin cut F glove (21-gauge) for dexterity. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/8846/)
-- **TEGERA PRO 9180A**: grinding and deburring vibration. Anti-vibration glove with Vibrothan foam. [Product page](https://www.ejendals.com/products/gloves/anti-vibration-gloves/9180a/)
+**Ejendals notes for this industry:**
+- Welding heat, sparks and spatter
+- Hot metal particles and grinding sparks
+- Chemical splashes
+- Welding sparks and spatter
+- Heat exposure during welding
+- Cut injuries on heavy-duty jobs
+
+## Recommended Tegera gloves
+1. **TEGERA WELDING 11CVA**: Chrome-free full-grain goatskin glove for strong heat protection. _(Ejendals recommends for metalwork)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/welding-gloves/)
+2. **TEGERA WELDING 585A**: Fully lined heat and cut-resistant welding glove. Contact heat up to 250°C/482°F. _(Ejendals recommends for metalwork)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
+3. **TEGERA WELDING 132A**: For jobs needing both heat and cut protection. Cut B. _(Ejendals recommends for metalwork)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/welding-gloves/)
+4. **TEGERA INFINITY 8805**: Soft, palm-dipped glove for precision work in dry areas. Cut B, touchscreen. _(Ejendals recommends for metalwork)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
+5. **TEGERA 450**: Cut and heat protection combined. _(Ejendals recommends for metalwork)_ [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+6. **TEGERA WELDING 134**: Goat suede glove with strong cut protection for heavy-duty work. Cut C. _(Ejendals recommends for welding)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/welding-gloves/)
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+- **JALAS GRAN PREMIO 1948S METATARSAL**: Metatarsal impact protection boot. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+- **JALAS 1228W**: Mid-cut boot with hidden BOA® Fit System. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+- **JALAS GRAN PREMIO 1678W**: Welding boot with Thinsulate™ lining. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+
+**Sources:** [Ejendals: Metalwork](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/) · [Ejendals: Welding](https://www.ejendals.com/industries/manufacturing-heavy-industry/welding/) · [Ejendals anti-vibration range](https://www.ejendals.com/products/gloves/anti-vibration-gloves/)
 
 ## Likely pain points (industry-typical, inferred)
 - Cut injuries from parts, blanks and burrs
@@ -41,13 +61,13 @@ _Generated from OSHA 2025 data and the Metalworking & Machinery playbook. No web
 **Safety / EHS manager**
 > Hi [First name], Your Name with Your Company, the Michigan rep for Tegera gloves. Did I catch you at an OK time for 30 seconds?
 > Most machine and metal shops I talk to are fighting the same trade-off: cut protection versus feel. Sharp parts and oily surfaces are hard on gloves, and a glove thick enough to stop a cut is often too clumsy for precise work.
-> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 43001 and TEGERA 8846 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
+> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA WELDING 11CVA and TEGERA WELDING 585A in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
 
 **Purchasing**
 > Hi [First name], Your Name with Your Company. I'm the Michigan rep for Tegera gloves, which ship through Fastenal, MSC and other major distributors. Quick question: which gloves does Pinehaven Gray Iron buy the most of? I'd like to show you a Tegera option on cost per worker, not just price per pair. Is a 15-minute call this week possible?
 
 **Voicemail (under 30 seconds)**
-> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for machining, grinding and handling sharp metal parts at Pinehaven Gray Iron. I'd like to drop off a few pairs of the TEGERA 43001 for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
+> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for machining, grinding and handling sharp metal parts at Pinehaven Gray Iron. I'd like to drop off a few pairs of the TEGERA WELDING 11CVA for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
 
 **Objections**
 - *"We already have a supplier."* Most companies do. Tegera ships through Fastenal, MSC and other major distributors, so you may not need a new vendor, just a better glove on the same order. Worth comparing your one or two highest-volume gloves?
@@ -69,7 +89,7 @@ Hi [First name],
 
 Sharp parts and oily surfaces are hard on gloves, and a glove thick enough to stop a cut is often too clumsy for precise work.
 
-I'm the Michigan rep for Tegera gloves by Ejendals. For machining, grinding and handling sharp metal parts, I'd start with the TEGERA 43001 (cut protection with grip on oily parts) and the TEGERA 8846 (thin cut glove for inspection and fine work). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
+I'm the Michigan rep for Tegera gloves by Ejendals. For machining, grinding and handling sharp metal parts, I'd start with the TEGERA WELDING 11CVA (chrome-free full-grain goatskin glove for strong heat protection) and the TEGERA WELDING 585A (fully lined heat and cut-resistant welding glove). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
 
 Would you be open to a 15-minute call to see if a glove trial at Pinehaven Gray Iron makes sense?
 
@@ -116,7 +136,7 @@ Not the right person, or prefer no follow-ups? Just reply and let me know.
 ```
 Hi [First name],
 
-Following up on my note about gloves for machining, grinding and handling sharp metal parts. If it's easier, I can drop off a few pairs of the TEGERA 43001 in different sizes so your team can try them on shift. Is there a good day this week or next?
+Following up on my note about gloves for machining, grinding and handling sharp metal parts. If it's easier, I can drop off a few pairs of the TEGERA WELDING 11CVA in different sizes so your team can try them on shift. Is there a good day this week or next?
 
 Your Name
 Territory Sales Representative | Your Company

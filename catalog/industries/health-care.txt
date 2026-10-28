@@ -1,0 +1,8 @@
+GLOVE|84510|TEGERA® CHEMFORCE 84510|For chemical splash risk areas
+GLOVE|842|TEGERA® 842|For protection of sensitive hands
+GLOVE|84303|TEGERA® 84303|For excellent fingertip sensitivity
+SHOE|5492|JALAS® SPOC 5492|For the healthcare sector, with laces
+SHOE|5462|JALAS® SPOC 5462|For the healthcare sector, with BOA®
+HAZARD|Hand injuries and exposure to hazards
+HAZARD|Chemical splash risks
+HAZARD|Foot and back strain from long workdays

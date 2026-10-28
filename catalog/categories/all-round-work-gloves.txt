@@ -1,0 +1,9 @@
+GLOVE|295|TEGERA® 295|Popular leather waterproof glove for cold, wet work|
+GLOVE|9196|TEGERA® PRO 9196|Synthetic leather glove with wrist support for heavy work|
+GLOVE|9135|TEGERA® PRO 9135|High-visibility waterproof glove with cuff|Aquathan®
+GLOVE|9200|TEGERA® PRO 9200|Soft, durable, breathable synthetic leather glove|Macrothan®+
+GLOVE|9125|TEGERA® PRO 9125|Ergonomic synthetic glove for hand-held tools|Microthan®+
+GLOVE|7799|TEGERA® DYNAMIC STRENGTH 7799|Premium cut-protection glove in high-visibility colour|Winter lined, touchscreen
+GLOVE|9121|TEGERA® PRO 9121|Combines grip and cut resistance|Kevlar®
+GLOVE|9113|TEGERA® PRO 9113|For cold and wet conditions|Aquathan®
+GLOVE|9126|TEGERA® PRO 9126|Warm, waterproof glove|Sympatex®

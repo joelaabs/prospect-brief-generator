@@ -1,0 +1,11 @@
+GLOVE|9122|TEGERA® PRO 9122|Ergonomic, water-repellent winter glove
+GLOVE|9111|TEGERA® PRO 9111|With a special wrist protection
+GLOVE|8801R|TEGERA® INFINITY 8801R|Super soft, foam finish, palm dipped
+GLOVE|8855R|TEGERA® OIL GRIP 8855R|Versatile cut C glove with touchscreen functionality
+GLOVE|888|TEGERA® 888|Strong, very soft, and very durable
+GLOVE|8851|TEGERA® OIL GRIP 8851|Superior nitrile grip in oily environments
+SHOE|7168|JALAS® ZENIT EVO 7168|Good looking and safe on the move
+SHOE|9995|JALAS® EXALTER 9995|New sustainable generation
+HAZARD|Corrosive joint compound and grout
+HAZARD|Kneeling for long periods
+HAZARD|Heavy lifting

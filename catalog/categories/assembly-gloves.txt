@@ -1,0 +1,4 @@
+GLOVE|8155T|TEGERA® 8155T|Durable goatskin glove with reinforced index finger|Touchscreen
+GLOVE|8355|TEGERA® 8355|Winter-lined cut-resistant goatskin glove|Cut B, Kevlar®
+GLOVE|8255T|TEGERA® 8255T|Lined goatskin glove with cut protection|Cut B, touchscreen
+GLOVE|292|TEGERA® 292|Fully lined, waterproof goatskin glove|Aquathan®

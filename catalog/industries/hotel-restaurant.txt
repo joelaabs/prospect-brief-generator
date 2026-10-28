@@ -1,0 +1,12 @@
+GLOVE|84303|TEGERA® 84303|Thin disposable nitrile glove with structured fingertips
+GLOVE|849|TEGERA® 849|Durable nitrile disposable glove with long cuff
+GLOVE|918|TEGERA® 918|Cut F for food contact with extra thickness
+GLOVE|916|TEGERA® 916|Cut F liner for food contact
+GLOVE|464|TEGERA® 464|Heat-resistant glove, withstands contact heat up to 250°C/482°F
+GLOVE|494|TEGERA® CHEMFORCE 494|Winter lined neoprene glove with chemical, cut and heat protection
+SHOE|3520|JALAS® CLEAN 3520|Easy-clean S2 safety shoe in white
+SHOE|5312|JALAS® SPOC 5312|Ultra light and soft from sustainable materials
+HAZARD|Sharp objects and cut risks
+HAZARD|Heat from kitchen equipment and hot surfaces
+HAZARD|Wet, slippery kitchen floors
+HAZARD|Skin exposure to cleaning agents

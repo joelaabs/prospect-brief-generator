@@ -22,10 +22,30 @@ _Generated from OSHA 2025 data and the Automotive & Aerospace playbook. No web r
 - welding sparks and heat
 - assembly work that needs dexterity
 
-## Recommended Tegera styles
-- **TEGERA 43001**: cut protection with grip on oily parts. Most popular cut-resistant glove; PU palm, good grip, high flexibility. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
-- **TEGERA 8846**: very thin cut F glove for assembly and inspection. Very thin cut F glove (21-gauge) for dexterity. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/8846/)
-- **TEGERA WELDING 118A**: welding cells. Premium goatskin welding/heat glove that withstands sparks and splash. [Product page](https://www.ejendals.com/products/gloves/welding-gloves/118a/)
+**Ejendals notes for this industry:**
+- Hand and foot injuries in foundry, stamping and body shop operations
+- Driveline and assembly work
+- Paint shop processes
+- Welding sparks and spatter
+- Heat exposure during welding
+- Cut injuries on heavy-duty jobs
+
+## Recommended Tegera gloves
+1. **TEGERA 43001**: Most popular cut-resistant glove with good grip. PU palm dip, high flexibility. _(Ejendals cut-protection range, matched to sharp, oily parts)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
+2. **TEGERA OIL GRIP 8862**: Nitrile-coated glove for grip and oil protection. Cut D, nitrile coating. _(Ejendals cut-protection range, matched to sharp, oily parts)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
+3. **TEGERA 8846**: The world's thinnest cut F glove. Cut F, CRF® Omni technology, 21-gauge knit. _(Ejendals cut-protection range, matched to sharp, oily parts)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/8846/)
+4. **TEGERA INFINITY 8815**: Thin nitrile-dipped glove for precision work in dry settings. Cut F, palm dipped. _(Ejendals cut-protection range, matched to sharp, oily parts)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
+5. **TEGERA DYNAMIC STRENGTH 7776**: Impact-reducing, fully lined glove. Cut D, full-grain goatskin, CRF® fiber. _(Ejendals cut-protection range, matched to sharp, oily parts)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
+6. **TEGERA WELDING 11CVA**: Chrome-free full-grain goatskin glove for strong heat protection. _(Ejendals recommends for welding)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/welding-gloves/)
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+- **JALAS GRAN PREMIO 1948S METATARSAL**: Metatarsal impact protection boot. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+- **JALAS 1228W**: Mid-cut boot with hidden BOA® Fit System. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/metalwork/)
+- **JALAS GRAN PREMIO 1898W WINTER KING**: High-cut, triple-lined winter safety boot for very cold environments. [See on ejendals.com](https://www.ejendals.com/industries/manufacturing-heavy-industry/welding/)
+
+**Sources:** [Ejendals: Automotive](https://www.ejendals.com/industries/manufacturing-heavy-industry/automotive/) · [Ejendals cut-protection range, matched to sharp, oily parts](https://www.ejendals.com/products/gloves/cut-protection-gloves/) · [Ejendals: Welding](https://www.ejendals.com/industries/manufacturing-heavy-industry/welding/)
 
 ## Likely pain points (industry-typical, inferred)
 - Cuts from stamped parts and blanks
@@ -41,7 +61,7 @@ _Generated from OSHA 2025 data and the Automotive & Aerospace playbook. No web r
 **Safety / EHS manager**
 > Hi [First name], Your Name with Your Company, the Michigan rep for Tegera gloves. Did I catch you at an OK time for 30 seconds?
 > In automotive, the fight is always cut protection versus dexterity, and that's the gap I help close. Stamped edges and oily parts are one of the hardest places to keep gloves on, because a glove thick enough to stop a cut is often too clumsy for assembly.
-> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 43001 and TEGERA 8846 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
+> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 43001 and TEGERA OIL GRIP 8862 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
 
 **Purchasing**
 > Hi [First name], Your Name with Your Company. I'm the Michigan rep for Tegera gloves, which ship through Fastenal, MSC and other major distributors. Quick question: which gloves does Kestrel Lake Stamping buy the most of? I'd like to show you a Tegera option on cost per worker, not just price per pair. Is a 15-minute call this week possible?
@@ -69,7 +89,7 @@ Hi Alex,
 
 Stamped edges and oily parts are one of the hardest places to keep gloves on, because a glove thick enough to stop a cut is often too clumsy for assembly.
 
-I'm the Michigan rep for Tegera gloves by Ejendals. For stamping, welding and assembly, I'd start with the TEGERA 43001 (cut protection with grip on oily parts) and the TEGERA 8846 (very thin cut F glove for assembly and inspection). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
+I'm the Michigan rep for Tegera gloves by Ejendals. For stamping, welding and assembly, I'd start with the TEGERA 43001 (most popular cut-resistant glove with good grip) and the TEGERA OIL GRIP 8862 (nitrile-coated glove for grip and oil protection). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
 
 Would you be open to a 15-minute call to see if a glove trial at Kestrel Lake Stamping makes sense?
 

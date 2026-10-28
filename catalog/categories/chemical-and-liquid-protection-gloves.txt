@@ -1,0 +1,11 @@
+GLOVE|84520|TEGERA® CHEMFORCE 84520|Silicone-free disposable glove with Type A chemical protection|Nitrile
+GLOVE|84510|TEGERA® CHEMFORCE 84510|For chemical splash risk areas|Disposable
+GLOVE|494|TEGERA® CHEMFORCE 494|Multi-protection glove: chemical, cut and heat|Winter lined, neoprene coated
+GLOVE|7338|TEGERA® CHEMFORCE 7338|Secure protection against many chemicals|
+GLOVE|836|TEGERA® CHEMFORCE 836|Thin glove in high quality neoprene|Disposable splash protection
+GLOVE|5100|TEGERA® 5100|Disposable glove for cleanrooms|
+GLOVE|12910|TEGERA® 12910|For cleaning tanks|
+GLOVE|7363|TEGERA® CHEMFORCE 7363|3 strong protections in one glove|
+GLOVE|7361|TEGERA® CHEMFORCE 7361|2 protections in one glove|
+GLOVE|71000|TEGERA® CHEMFORCE 71000|Double dipped for high safety|
+GLOVE|12920|TEGERA® CHEMFORCE 12920|Extra long for heavier work|

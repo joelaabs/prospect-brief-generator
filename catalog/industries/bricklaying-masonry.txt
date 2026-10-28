@@ -1,0 +1,14 @@
+GLOVE|56|TEGERA® 56|Strong, winter-lined, and waterproof
+GLOVE|57|TEGERA® 57|Strong, winter-lined, with knitted cuff
+GLOVE|7780|TEGERA® DYNAMIC STRENGTH 7780|Against heat, cold and cuts
+GLOVE|9125|TEGERA® PRO 9125|Perfect for hand-held tools
+GLOVE|55|TEGERA® 55|Strong half-lined leather glove
+GLOVE|9124|TEGERA® PRO 9124|Fantastic grip and ergonomic elastic wrist
+SHOE|9988|JALAS® EXALTER 9988 GTX|A mid-cut safety shoe, now with GORE-TEX
+SHOE|9975|JALAS® EXALTER 9975|Mid-cut, water repellant with laces
+SHOE|1378|JALAS® HEAVY DUTY 1378|The ultimate winter safety boot for harsh conditions
+SHOE|1278|JALAS® HEAVY DUTY 1278|A tough, mid-cut safety boot with highest protection level (S3) and BOA® Fit System built for heavy work.
+HAZARD|Wet mortar and moisture exposure on hands
+HAZARD|Abrasive stone and rough surfaces
+HAZARD|Physical strain from repetitive bricklaying tasks
+HAZARD|Cold or slippery outdoor conditions

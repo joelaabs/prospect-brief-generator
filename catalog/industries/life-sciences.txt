@@ -1,0 +1,11 @@
+GLOVE|84520|TEGERA® CHEMFORCE 84520|Silicone-free glove with chemical protection
+GLOVE|84510|TEGERA® CHEMFORCE 84510|For chemical splash risk areas
+GLOVE|84519|TEGERA® CHEMFORCE 84519|Accelerator-free Type A chemical glove
+GLOVE|837|TEGERA® CHEMFORCE 837|Extra-long for extra protection
+GLOVE|836|TEGERA® CHEMFORCE 836|Thin glove in high quality neoprene
+GLOVE|5100|TEGERA® CHEMFORCE 5100|Disposable glove for cleanrooms
+SHOE|5492|JALAS® SPOC 5492|Occupational shoe with laces
+SHOE|5462|JALAS® SPOC 5462|Occupational shoe with BOA®
+HAZARD|Chemical splash exposure
+HAZARD|Contamination risk in cleanroom environments
+HAZARD|Hygiene and dexterity demands in sensitive production work

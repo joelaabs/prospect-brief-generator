@@ -1,0 +1,3 @@
+HAZARD|Hand and foot injuries in foundry, stamping and body shop operations
+HAZARD|Driveline and assembly work
+HAZARD|Paint shop processes

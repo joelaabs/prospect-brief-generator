@@ -1,0 +1,11 @@
+GLOVE|43001|TEGERA® 43001|PU palm dipped, good grip
+GLOVE|909|TEGERA® 909|Thin with bio-circular cut protection
+GLOVE|8814|TEGERA® INFINITY 8814|Great fit, palm dipped, cut F glove
+GLOVE|450|TEGERA® 450|Cut and heat protection combined
+GLOVE|906|TEGERA® 906|Thin with bio-circular cut protection
+SHOE|9995|JALAS® EXALTER 9995|Best-selling water repellent safety shoe
+SHOE|3018|JALAS® ZENIT 3018|Light, sporty safety shoe with S3 protection
+SHOE|9968|JALAS® EXALTER 9968 GTX|A low-cut safety shoe with GORE-TEX
+HAZARD|Cut injuries from pipe cutting
+HAZARD|Wet or moist working environments
+HAZARD|Awkward working positions under sinks, floors and ceilings

@@ -1,0 +1,7 @@
+GLOVE|11CVA|TEGERA® WELDING 11CVA|Chrome-free full-grain goatskin glove for strong heat protection|
+GLOVE|585A|TEGERA® WELDING 585A|Fully lined glove that resists heat and cuts|Contact heat up to 250°C/482°F
+GLOVE|132A|TEGERA® WELDING 132A|For jobs needing both heat and cut protection|Cut B
+GLOVE|134|TEGERA® WELDING 134|Goat suede glove with strong cut protection for heavy-duty work|Cut C
+GLOVE|118A|TEGERA® WELDING 118A|Unlined premium goatskin glove that withstands sparks and splash|
+GLOVE|126A|TEGERA® WELDING 126A|Leather glove for precise welding|Kevlar® seams
+GLOVE|7787|TEGERA® WELDING 7787|Welding glove with high cut protection and heat resistance|Cut F, heat up to 100°C/212°F

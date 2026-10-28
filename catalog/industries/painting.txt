@@ -1,0 +1,10 @@
+GLOVE|905|TEGERA® 905|Thin with bio-circular cut protection
+GLOVE|778|TEGERA® 778|Our thinnest, with smooth PU dipping
+GLOVE|850|TEGERA® 850|In white, detect the dirt immediately
+GLOVE|8807|TEGERA® INFINITY 8807|Super soft, thin glove, cut level D
+GLOVE|8815|TEGERA® INFINITY 8815|Thin nitrile dipped cut F
+GLOVE|84303|TEGERA® 84303|For excellent fingertip sensitivity
+SHOE|3520|JALAS® CLEAN 3520|Easy-clean S2 safety shoe in white
+HAZARD|Cuts from sharp objects during precision work
+HAZARD|Loss of dexterity from bulky gloves
+HAZARD|Slipping on ladders and job sites

@@ -1,0 +1,13 @@
+GLOVE|422|TEGERA® RIG IMPACT 422|Impact protective glove with TPR, cut level D, nitrile grip, touchscreen
+GLOVE|522|TEGERA® RIG IMPACT 522|Impact glove with cut protection C and TPR over back of hand and fingertips
+GLOVE|7770|TEGERA® DYNAMIC STRENGTH 7770|Impact-reducing glove, full grain goatskin, knuckle protection
+GLOVE|7776|TEGERA® DYNAMIC STRENGTH 7776|Impact-reducing glove, fully lined, goatskin, cut level D
+GLOVE|7773|TEGERA® DYNAMIC STRENGTH 7773|Impact-reducing glove, fully lined, goatskin, cut level E, KEVLAR® fiber
+GLOVE|84520|TEGERA® CHEMFORCE 84520|Black disposable nitrile glove with Type A chemical protection
+SHOE|1378|JALAS® HEAVY DUTY 1378|Fully lined S3 winter boot for very cold or slippery conditions
+SHOE|1358|JALAS® HEAVY DUTY 1358|Water-repellent S3 mid-cut boot with BOA® Fit System
+SHOE|1878|JALAS® GRAN PREMIO 1878 OFF ROAD|Premium anti-static S3 boot for heavy work
+HAZARD|Heavy metal objects striking hands
+HAZARD|Working with slippery oil
+HAZARD|Many different tools and hands-on tasks
+HAZARD|Long shifts in extreme weather

@@ -1,0 +1,9 @@
+GLOVE|8815|TEGERA® INFINITY 8815|Great fingertip sensitivity, palm dipped, for precision work in dry environments
+GLOVE|8846|TEGERA® 8846|CRF Omni technology, 21-gauge knitting, highest cut protection
+GLOVE|8845|TEGERA® 8845|Extremely thin and soft with touchscreen function, for work with sharp and small objects
+SHOE|9935|JALAS® EXALTER 9935|Best-selling breathable safety shoe
+SHOE|9995|JALAS® EXALTER 9995|Best-selling water repellent safety shoe
+SHOE|7168|JALAS® ZENIT EVO 7168|Comfortable, water repellant shoe with BOA® and nail protection
+HAZARD|Handling sharp metal ductwork and small sharp objects
+HAZARD|Overhead work with hands above the head
+HAZARD|Working in confined spaces

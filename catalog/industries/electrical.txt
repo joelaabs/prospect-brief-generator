@@ -1,0 +1,14 @@
+GLOVE|777|TEGERA® 777|A precision glove with smooth dipping
+GLOVE|779|TEGERA® 779|Ultra-thin, silicone/latex-free glove
+GLOVE|9140|TEGERA® PRO 9140|Unique design provides world-class dexterity
+GLOVE|116|TEGERA® 116|Top-quality glove for fine assembly
+GLOVE|9105|TEGERA® PRO 9105|Designed for maximum fit
+GLOVE|9200|TEGERA® PRO 9200|Soft, comfortable, and durable
+GLOVE|8805|TEGERA® INFINITY 8805|Super soft, palm dipped, cut B glove
+GLOVE|8811|TEGERA® INFINITY 8811|Super soft, long cuff, cut level D
+GLOVE|8807|TEGERA® INFINITY 8807|Super soft, thin glove, cut level D
+SHOE|3018|JALAS® ZENIT 3018|Light, sporty safety shoe with highest (S3) protection rating
+HAZARD|Handling small, delicate components
+HAZARD|Sharp objects and machinery
+HAZARD|Pressure points from kneeling work
+HAZARD|Cold working environments

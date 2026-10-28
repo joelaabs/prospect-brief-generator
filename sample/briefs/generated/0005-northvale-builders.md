@@ -22,10 +22,30 @@ _Generated from OSHA 2025 data and the Construction playbook. No web research ye
 - cold and wet Michigan weather
 - vibration from hammer drills, saws and breakers
 
-## Recommended Tegera styles
-- **TEGERA 295**: waterproof leather for cold, wet jobsites. Quality leather waterproof glove for cold and wet work. [Product page](https://www.ejendals.com/products/gloves/all-round-work-gloves/295/)
-- **TEGERA 43001**: cut protection for sheet metal and rebar. Most popular cut-resistant glove; PU palm, good grip, high flexibility. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
-- **TEGERA PRO 9180A**: vibration from breakers and hammer drills. Anti-vibration glove with Vibrothan foam. [Product page](https://www.ejendals.com/products/gloves/anti-vibration-gloves/9180a/)
+**Ejendals notes for this industry:**
+- Cut injuries from pulling, dragging and carrying heavy rebar
+- Tripping and falling, the most common accident
+- Heavy lifting throughout the workday
+- Cold weather exposure
+- Wet mortar and moisture exposure on hands
+- Abrasive stone and rough surfaces
+
+## Recommended Tegera gloves
+1. **TEGERA 56**: Winter-lined leather glove for heavy use. Waterproof, reinforced fingers and thumb. _(Ejendals recommends for bricklaying and masonry)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/heavy-duty-gloves/)
+2. **TEGERA 295**: Popular leather waterproof glove for cold, wet work. _(for cold, wet winter work)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/all-round-work-gloves/295/)
+3. **TEGERA 57**: Winter-lined leather glove for heavy use. Knitted cuff, reinforced fingers and thumb. _(Ejendals recommends for bricklaying and masonry)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/heavy-duty-gloves/)
+4. **TEGERA DYNAMIC STRENGTH 7780**: Against heat, cold and cuts. _(Ejendals recommends for bricklaying and masonry)_ [See on ejendals.com](https://www.ejendals.com/industries/building-and-construction/bricklaying-and-masonry/)
+5. **TEGERA PRO 9125**: Ergonomic synthetic glove for hand-held tools. Microthan®+. _(Ejendals recommends for bricklaying and masonry)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/all-round-work-gloves/)
+6. **TEGERA 55**: Half-lined leather glove for heavy use. Reinforced fingers and thumb. _(Ejendals recommends for bricklaying and masonry)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/heavy-duty-gloves/)
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+- **JALAS Heavy Duty collection**: Ultra-durable, extreme safety features, ergonomic and comfortable. [See on ejendals.com](https://www.ejendals.com/industries/building-and-construction/concrete-services/)
+- **JALAS EXALTER 9988 GTX**: A mid-cut safety shoe with GORE-TEX. [See on ejendals.com](https://www.ejendals.com/industries/primary-sector/agriculture/)
+- **JALAS EXALTER 9975**: Mid-cut, water repellant with laces. [See on ejendals.com](https://www.ejendals.com/industries/building-and-construction/bricklaying-and-masonry/)
+
+**Sources:** [Ejendals: Concrete & foundation services](https://www.ejendals.com/industries/building-and-construction/concrete-services/) · [Ejendals: Bricklaying and masonry](https://www.ejendals.com/industries/building-and-construction/bricklaying-and-masonry/) · [Ejendals: Scaffolding](https://www.ejendals.com/industries/building-and-construction/scaffolding/) · [Ejendals anti-vibration range](https://www.ejendals.com/products/gloves/anti-vibration-gloves/)
 
 ## Likely pain points (industry-typical, inferred)
 - Gloves wear out fast on concrete and masonry
@@ -41,13 +61,13 @@ _Generated from OSHA 2025 data and the Construction playbook. No web research ye
 **Safety / EHS manager**
 > Hi [First name], Your Name with Your Company, the Michigan rep for Tegera gloves. Did I catch you at an OK time for 30 seconds?
 > With winter coming, this is when crews start complaining about cold, wet gloves. Construction gloves take a beating from concrete, rebar and weather, and crews go through them fast or skip them when they're wet and cold.
-> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 295 and TEGERA 43001 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
+> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 56 and TEGERA 295 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
 
 **Purchasing**
 > Hi [First name], Your Name with Your Company. I'm the Michigan rep for Tegera gloves, which ship through Fastenal, MSC and other major distributors. Quick question: which gloves does Northvale Builders buy the most of? I'd like to show you a Tegera option on cost per worker, not just price per pair. Is a 15-minute call this week possible?
 
 **Voicemail (under 30 seconds)**
-> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for outdoor construction crews at Northvale Builders. I'd like to drop off a few pairs of the TEGERA 295 for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
+> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for outdoor construction crews at Northvale Builders. I'd like to drop off a few pairs of the TEGERA 56 for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
 
 **Objections**
 - *"We already have a supplier."* Most companies do. Tegera ships through Fastenal, MSC and other major distributors, so you may not need a new vendor, just a better glove on the same order. Worth comparing your one or two highest-volume gloves?
@@ -69,7 +89,7 @@ Hi [First name],
 
 Construction gloves take a beating from concrete, rebar and weather, and crews go through them fast or skip them when they're wet and cold.
 
-I'm the Michigan rep for Tegera gloves by Ejendals. For outdoor construction crews, I'd start with the TEGERA 295 (waterproof leather for cold, wet jobsites) and the TEGERA 43001 (cut protection for sheet metal and rebar). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
+I'm the Michigan rep for Tegera gloves by Ejendals. For outdoor construction crews, I'd start with the TEGERA 56 (winter-lined leather glove for heavy use) and the TEGERA 295 (popular leather waterproof glove for cold, wet work). Sizes go up to 12 in some styles, and they ship through Fastenal, MSC and other major distributors, so there's no new vendor.
 
 Would you be open to a 15-minute call to see if a glove trial at Northvale Builders makes sense?
 
@@ -116,7 +136,7 @@ Not the right person, or prefer no follow-ups? Just reply and let me know.
 ```
 Hi [First name],
 
-Following up on my note about gloves for outdoor construction crews. If it's easier, I can drop off a few pairs of the TEGERA 295 in different sizes so your team can try them on shift. Is there a good day this week or next?
+Following up on my note about gloves for outdoor construction crews. If it's easier, I can drop off a few pairs of the TEGERA 56 in different sizes so your team can try them on shift. Is there a good day this week or next?
 
 Your Name
 Territory Sales Representative | Your Company

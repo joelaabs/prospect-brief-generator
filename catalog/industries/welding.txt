@@ -1,0 +1,10 @@
+GLOVE|11CVA|TEGERA® WELDING 11CVA|Top quality chrome free welding glove
+GLOVE|585A|TEGERA® WELDING 585A|Strong protection against heat
+GLOVE|132A|TEGERA® WELDING 132A|Welding glove with cut resistance B
+GLOVE|134|TEGERA® WELDING 134|Superior for welding and cut protection
+SHOE|1948S|JALAS® GRAN PREMIO 1948S METATARSAL|Metatarsal impact protection boot
+SHOE|1228W|JALAS® 1228W|Mid-cut boot with hidden BOA® Fit System
+SHOE|1898W|JALAS® GRAN PREMIO 1898W WINTER KING|High-cut, triple-lined winter safety boot for very cold environments
+HAZARD|Welding sparks and spatter
+HAZARD|Heat exposure during welding
+HAZARD|Cut injuries on heavy-duty jobs

@@ -23,7 +23,8 @@ from openpyxl import load_workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 
 sys.path.insert(0, os.path.dirname(__file__))
-from playbooks import PLAYBOOKS, PRODUCTS, DEFAULT_GROUP
+from playbooks import PLAYBOOKS, DEFAULT_GROUP
+import catalog
 import config as C
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -66,8 +67,6 @@ def winter_now(today):
 def words(s):
     return len(re.sub(r"\[.*?\]", "x", s.split(C.SIGNATURE.splitlines()[0])[0]).split())
 
-def pick_text(key):
-    return PRODUCTS[key][0]
 
 
 # ---------------------------------------------------------------- content
@@ -77,9 +76,13 @@ def build(row, pb, version, today, peers):
     sites = int(row.get("MI Sites") or 1)
     emp = int(row.get("MI Employees") or 0)
     region = REGION_PHRASE.get(row.get("MI Region"), "Michigan")
-    p = pb["picks"]
-    p1, w1 = pick_text(p[0][0]), p[0][1]
-    p2, w2 = pick_text(p[1][0]), p[1][1]
+    rec = catalog.recommend(row.get("Industry Detail"), row.get("Industry Group"),
+                            outdoor=pb["outdoor"], winter=winter_now(today))
+    g = rec["gloves"]
+    lc = lambda t: (t[:1].lower() + t[1:]).rstrip(".") if t else ""
+    p1, w1 = g[0]["name"], lc(g[0]["desc"])
+    second = next((x for x in g[1:] if lc(x["desc"]) != w1), g[1])   # avoid two near-identical picks
+    p2, w2 = second["name"], lc(second["desc"])
     work = pb["work"]
 
     # who gets which email
@@ -153,7 +156,7 @@ def build(row, pb, version, today, peers):
           f"I'll send a short email too. "
           f"You can reach me at {C.PHONE}. Again, {C.REP_NAME}, {C.PHONE}. Thanks.")
     opener = pb["opener"]
-    styles = "; ".join(f"{PRODUCTS[k][0].replace('TEGERA ', '')} ({why})" for k, why in p)
+    styles = "; ".join(f"{x['name'].replace('TEGERA ', '')} ({lc(x['desc'])})" for x in [g[0], second] + [x for x in g[1:] if x is not second][:1])
 
     # ---- brief
     rate = row.get("OSHA Injury Rate")
@@ -192,10 +195,17 @@ _Generated from OSHA 2025 data and the {row.get('Industry Group')} playbook. No 
 **Titles to find:** Safety / EHS Manager, Purchasing Manager or Buyer, Plant or Operations Manager.
 
 ## Likely hand hazards (industry-typical)
-""" + "\n".join(f"- {h}" for h in pb["hazards"]) + """
+""" + "\n".join(f"- {h}" for h in pb["hazards"]) + ("\n\n**Ejendals notes for this industry:**\n" + "\n".join(f"- {h}" for h in rec["hazards"]) if rec["hazards"] else "") + """
 
-## Recommended Tegera styles
-""" + "\n".join(f"- **{PRODUCTS[k][0]}**: {why}. {PRODUCTS[k][1][:1].upper() + PRODUCTS[k][1][1:]}. [Product page]({PRODUCTS[k][2]})" for k, why in p) + """
+## Recommended Tegera gloves
+""" + "\n".join(f"{i}. **{x['name']}**: {x['desc'].rstrip('.')}." + (f" {x['features'].rstrip('.')}." if x.get('features') else "") + f" _({x['why_source']})_ [See on ejendals.com]({x['url']})" for i, x in enumerate(g, 1)) + """
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+""" + ("\n".join(f"- **{x['name']}**: {x['desc'].rstrip('.')}. [See on ejendals.com]({x['url']})" for x in rec["shoes"]) or "- No industry-specific picks; see ejendals.com/jalas") + """
+
+**Sources:** """ + " · ".join(f"[{n}]({u})" for n, u in rec["sources"]) + """
 
 ## Likely pain points (industry-typical, inferred)
 """ + "\n".join(f"- {x}" for x in pb["pains"]) + f"""

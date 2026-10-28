@@ -1,0 +1,14 @@
+GLOVE|2011|TEGERA® DEFEND 2011|Fully lined leather glove with KEVLAR® fiber and knuckle protection|Cut C, cowhide
+GLOVE|9295|TEGERA® PRO 9295|Synthetic leather glove with extra wrist protection|Ergonomic, wrist support
+GLOVE|56|TEGERA® 56|Winter-lined leather glove for heavy use|Waterproof, reinforced fingers and thumb
+GLOVE|57|TEGERA® 57|Winter-lined leather glove for heavy use|Knitted cuff, reinforced fingers and thumb
+GLOVE|9205|TEGERA® PRO 9205|Synthetic leather glove for handheld tools|Extra palm and knuckle protection
+GLOVE|595|TEGERA® 595|Winter-lined cowhide glove|Waterproof, Thinsulate™ 200 g
+GLOVE|724|TEGERA® 724|Cotton-lined synthetic glove|Nitrile-dipped palm and knuckle, water and oil resistant
+GLOVE|748|TEGERA® 748|Cotton-lined glove, fully nitrile dipped|Grease, oil and water resistant
+GLOVE|7797|TEGERA® DYNAMIC STRENGTH 7797|Winter-lined goatskin leather glove|Thinsulate™ 120 g
+GLOVE|55|TEGERA® 55|Half-lined leather glove for heavy use|Reinforced fingers and thumb
+GLOVE|364|TEGERA® 364|Unlined cowhide leather glove|Chrome free, reinforced fingers and thumb
+GLOVE|9112|TEGERA® PRO 9112|Heavy duty winter-lined synthetic glove with safety cuff|Microthan®+
+GLOVE|7798|TEGERA® DYNAMIC STRENGTH 7798|Warm-lined premium leather glove|Waterproof, breathable, touchscreen
+GLOVE|2805A|TEGERA® 2805A|Fully nitrile-dipped synthetic glove|Grease, oil and water repellent

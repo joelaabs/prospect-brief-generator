@@ -1,0 +1,11 @@
+GLOVE|849|TEGERA® 849|Disposable glove for many purposes
+GLOVE|84510|TEGERA® CHEMFORCE 84510|For chemical splash risk areas
+GLOVE|819A|TEGERA® 819A|Disposable, priced so you can switch often
+GLOVE|858|TEGERA® 858|For protection of sensitive hands with longer cuff
+GLOVE|905|TEGERA® 905|Thin with bio-circular cut protection
+GLOVE|8127|TEGERA® 8127|Cotton-mix glove with vinyl dots
+SHOE|5662|JALAS® SPOC 5662|Lightweight, comfortable and certified
+SHOE|5312|JALAS® SPOC 5312|Ultra light and soft from sustainable materials
+HAZARD|Exposure to hazardous cleaning chemicals
+HAZARD|Work-related skin disease
+HAZARD|Slip and trip accidents on slippery floors

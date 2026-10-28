@@ -1,0 +1,13 @@
+GLOVE|918|TEGERA® 918|Insulated food liner with cut F protection for food handling
+GLOVE|916|TEGERA® 916|Washable cut F food liner for high dexterity
+GLOVE|8847|TEGERA® 8847|21-gauge liner with CRF® Omni Technology, cut protection F, food-approved
+GLOVE|849|TEGERA® 849|Durable nitrile disposable glove with long cuff
+GLOVE|84520|TEGERA® CHEMFORCE 84520|Black disposable nitrile glove with Type A chemical protection
+GLOVE|836|TEGERA® CHEMFORCE 836|Disposable glove for chemical splash risk areas
+SHOE|3520|JALAS® CLEAN 3520|Easy-clean S2 safety shoe in white
+SHOE|3780|JALAS® GRIP 3780 FOODS|Comfortable safety boot with excellent grip, water repellent
+SHOE|1420|JALAS® CLEAN 1420|Mid-cut shoe for high hygienic demands
+HAZARD|Cross-contamination of food during handling
+HAZARD|Slippery floors causing slips, trips and falls
+HAZARD|Exposure to chemicals such as detergents
+HAZARD|Repetitive motion and dangerous machinery

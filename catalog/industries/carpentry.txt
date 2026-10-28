@@ -1,0 +1,13 @@
+GLOVE|909|TEGERA® 909|Thin with bio-circular cut protection
+GLOVE|8807R|TEGERA® INFINITY 8807R|Super soft, thin glove, cut level D
+GLOVE|9125|TEGERA® PRO 9125|Perfect for hand-held tools
+GLOVE|906|TEGERA® 906|Thin with bio-circular cut protection
+GLOVE|7798|TEGERA® DYNAMIC STRENGTH 7798|Top quality all the way
+GLOVE|9124|TEGERA® PRO 9124|Fantastic grip and ergonomic elastic wrist
+SHOE|9935|JALAS® EXALTER 9935|New sustainable generation
+SHOE|9995|JALAS® EXALTER 9995|New sustainable generation
+SHOE|2068|JALAS® TIO 2068|Three In One sole. Tri-panel BOA
+SHOE|9988|JALAS® EXALTER 9988 GTX|A mid-cut safety shoe, now with GORE-TEX
+HAZARD|Injuries from handling machines and hand-held tools
+HAZARD|Hand injuries, which Ejendals says make up 42% of carpentry work injuries
+HAZARD|Performance pressure from tight construction schedules

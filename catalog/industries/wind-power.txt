@@ -1,0 +1,12 @@
+GLOVE|295|TEGERA® 295|Popular quality leather waterproof glove
+GLOVE|9183|TEGERA® PRO 9183|Anti-vibration with wrist support
+GLOVE|8846|TEGERA® 8846|The world's thinnest cut F glove
+GLOVE|806|TEGERA® 806|ESD glove with cut resistance level C
+GLOVE|9122|TEGERA® PRO 9122|Ergonomic, water-repellent winter glove
+GLOVE|8833|TEGERA® 8833|Shut out the winter, shut out the wet
+SHOE|1398|JALAS® HEAVY DUTY 1398 WINTER GTX|A GORE-TEX boot for very cold winters
+SHOE|9985|JALAS® EXALTER 9985|Mid-cut, water repellant with BOA
+HAZARD|Working at heights
+HAZARD|Crushing injuries from heavy machinery
+HAZARD|Electrical hazards when working on components
+HAZARD|Cold-related injuries in extreme weather

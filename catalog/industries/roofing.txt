@@ -1,0 +1,13 @@
+GLOVE|8807|TEGERA® INFINITY 8807|Very soft, thin cut level D glove for fine assembly in dry conditions
+GLOVE|8815|TEGERA® INFINITY 8815|Thin nitrile-dipped cut F glove for precision work in dry conditions
+GLOVE|8846|TEGERA® 8846|The thinnest cut F glove, CRF Omni technology
+GLOVE|430|TEGERA® 430|PU palm-dipped cut-resistant glove with good grip and comfort
+GLOVE|8845|TEGERA® 8845|Very thin cut F glove with touchscreen function for sharp, small objects
+GLOVE|9128|TEGERA® PRO 9128|Ergonomic, waterproof glove with good grip on slippery surfaces
+SHOE|3018|JALAS® ZENIT 3018|Light, sporty low shoe with S3 protection
+SHOE|9985|JALAS® EXALTER 9985|Water-repellent mid-cut with BOA
+SHOE|1398|JALAS® HEAVY DUTY 1398 WINTER GTX|Waterproof GORE-TEX boot for very cold, wet winters
+HAZARD|Hot, cold, wet, icy or slippery roof surfaces
+HAZARD|Cuts from metal roofing and cutting tools
+HAZARD|Punctures and abrasions from shingles and tar paper
+HAZARD|Poor grip leading to dropped tools and materials

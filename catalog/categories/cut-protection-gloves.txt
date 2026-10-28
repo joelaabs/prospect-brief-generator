@@ -1,0 +1,20 @@
+GLOVE|8807|TEGERA® INFINITY 8807|Thin, soft glove for fine assembly in dry settings|Cut D, palm dipped, good fingertip sensitivity
+GLOVE|43001|TEGERA® 43001|Most popular cut-resistant glove with good grip|PU palm dip, high flexibility
+GLOVE|7776|TEGERA® DYNAMIC STRENGTH 7776|Impact-reducing, fully lined glove|Cut D, full-grain goatskin, CRF® fiber
+GLOVE|918|TEGERA® 918|Food-handling glove with extra thickness and insulated liner|Cut F
+GLOVE|8815|TEGERA® INFINITY 8815|Thin nitrile-dipped glove for precision work in dry settings|Cut F, palm dipped
+GLOVE|7773|TEGERA® DYNAMIC STRENGTH 7773|Impact-reducing, fully lined glove|Cut E, full-grain goatskin, KEVLAR® fiber
+GLOVE|916|TEGERA® 916|Washable liner for food contact|Cut F, high dexterity
+GLOVE|8869|TEGERA® OIL GRIP 8869|Waterproof glove with nitrile grip|Cut F, waterproof, nitrile dip
+GLOVE|8863|TEGERA® OIL GRIP 8863|Waterproof glove with nitrile grip for grip and oil protection|Cut D, waterproof, nitrile coating
+GLOVE|8862|TEGERA® OIL GRIP 8862|Nitrile-coated glove for grip and oil protection|Cut D, nitrile coating
+GLOVE|8846|TEGERA® 8846|The world's thinnest cut F glove|Cut F, CRF® Omni technology, 21-gauge knit
+GLOVE|7775|TEGERA® DYNAMIC STRENGTH 7775|Impact-reducing, fully lined glove|Cut E, full-grain goatskin, KEVLAR® fiber
+GLOVE|8847|TEGERA® 8847|Ultrathin liner, food-approved|Cut F, 21-gauge, CRF® Omni technology
+GLOVE|8807T|TEGERA® INFINITY 8807T|Thin glove with touchscreen for fine assembly in dry settings|Cut D, touchscreen
+GLOVE|909|TEGERA® 909|Thin, highly dexterous glove|Bio-circular cut protection, 48% Dyneema® bio-circular fiber
+GLOVE|8814|TEGERA® INFINITY 8814|Palm-dipped all-round glove for dry to slightly moist conditions|Cut F, touchscreen
+GLOVE|585A|TEGERA® WELDING 585A|Fully lined heat and cut-resistant welding glove|Contact heat up to 250°C/482°F
+GLOVE|430|TEGERA® 430|Palm-dipped glove with good grip and comfort|PU palm dip, high flexibility
+GLOVE|2011|TEGERA® DEFEND 2011|Fully lined leather glove with knuckle protection|Cut C, cowhide, KEVLAR® fiber
+GLOVE|8805|TEGERA® INFINITY 8805|Soft, palm-dipped glove for precision work in dry areas|Cut B, touchscreen

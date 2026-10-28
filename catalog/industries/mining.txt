@@ -1,0 +1,14 @@
+GLOVE|737|TEGERA® 737|Fully dipped, sandy finish on palm
+GLOVE|8821|TEGERA® 8821|Very durable and heat protective
+GLOVE|884A|TEGERA® 884A|Touch screen function and great grip
+GLOVE|7363|TEGERA® CHEMFORCE 7363|3 strong protections in one glove
+GLOVE|517|TEGERA® 517|Waterproof synthetic leather glove
+GLOVE|8833|TEGERA® 8833|Shut out the winter, shut out the wet
+GLOVE|9295|TEGERA® PRO 9295|Ergonomic with extra wrist support
+GLOVE|9205|TEGERA® PRO 9205|Extra protection for palm and knuckles
+SHOE|1398|JALAS® HEAVY DUTY 1398 WINTER GTX|A GORE-TEX boot for very cold winters
+SHOE|1358|JALAS® HEAVY DUTY 1358|Water-repellent S3 mid-cut boot with BOA® Fit System
+HAZARD|Falling objects and sharp debris
+HAZARD|Slippery surfaces
+HAZARD|Extreme hot and cold temperatures
+HAZARD|Cuts and abrasions

@@ -21,9 +21,27 @@ _Generated from OSHA 2025 data and the Logistics & Transportation playbook. No w
 - cold and wet outdoor work
 - cuts from banding and cargo
 
-## Recommended Tegera styles
-- **TEGERA 295**: waterproof leather for cold, wet work. Quality leather waterproof glove for cold and wet work. [Product page](https://www.ejendals.com/products/gloves/all-round-work-gloves/295/)
-- **TEGERA 43001**: cut protection with good grip. Most popular cut-resistant glove; PU palm, good grip, high flexibility. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
+**Ejendals notes for this industry:**
+- Strain injuries from constant handling
+- Constant load on feet during long shifts
+- Oily and slippery work environments
+
+## Recommended Tegera gloves
+1. **TEGERA PRO 9100**: For the best grip and dexterity. _(Ejendals recommends for logistics)_ [See on ejendals.com](https://www.ejendals.com/industries/transportation/logistics/)
+2. **TEGERA 295**: Popular leather waterproof glove for cold, wet work. _(for cold, wet winter work)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/all-round-work-gloves/295/)
+3. **TEGERA PRO 9105**: Designed for maximum fit. _(Ejendals recommends for logistics)_ [See on ejendals.com](https://www.ejendals.com/industries/building-and-construction/electrical-installation/)
+4. **TEGERA PRO 9125**: Ergonomic synthetic glove for hand-held tools. Microthan®+. _(Ejendals recommends for logistics)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/all-round-work-gloves/)
+5. **TEGERA OIL GRIP 8850**: For dry, moist, and slightly oily environments. _(Ejendals recommends for logistics)_ [See on ejendals.com](https://www.ejendals.com/industries/transportation/logistics/)
+6. **TEGERA 8846**: The world's thinnest cut F glove. Cut F, CRF® Omni technology, 21-gauge knit. _(Ejendals recommends for logistics)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/8846/)
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+- **JALAS ZENIT EVO 7128**: Comfort for long days at work, laces. [See on ejendals.com](https://www.ejendals.com/industries/transportation/logistics/)
+- **JALAS TIO 2068**: Three In One sole. Tri-panel BOA. [See on ejendals.com](https://www.ejendals.com/industries/building-and-construction/carpentry/)
+- **JALAS TIO 2028**: Three In One sole. Water repellent. [See on ejendals.com](https://www.ejendals.com/industries/transportation/logistics/)
+
+**Sources:** [Ejendals: Logistics](https://www.ejendals.com/industries/transportation/logistics/)
 
 ## Likely pain points (industry-typical, inferred)
 - Cold, wet hands in winter
@@ -38,13 +56,13 @@ _Generated from OSHA 2025 data and the Logistics & Transportation playbook. No w
 **Safety / EHS manager**
 > Hi [First name], Your Name with Your Company, the Michigan rep for Tegera gloves. Did I catch you at an OK time for 30 seconds?
 > With winter coming, this is when dock and yard crews start asking for better gloves. Drivers and dock crews work in cold, wet conditions and handle straps and cargo all day, and gloves either wear out or come off.
-> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 295 and TEGERA 43001 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
+> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA PRO 9100 and TEGERA 295 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
 
 **Purchasing**
 > Hi [First name], Your Name with Your Company. I'm the Michigan rep for Tegera gloves, which ship through Fastenal, MSC and other major distributors. Quick question: which gloves does Copperline Cold Storage & Logistics buy the most of? I'd like to show you a Tegera option on cost per worker, not just price per pair. Is a 15-minute call this week possible?
 
 **Voicemail (under 30 seconds)**
-> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for drivers, dock and yard crews at Copperline Cold Storage & Logistics. I'd like to drop off a few pairs of the TEGERA 295 for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
+> Hi [First name], this is Your Name with Your Company, the Michigan rep for Tegera safety gloves. I'm calling about gloves for drivers, dock and yard crews at Copperline Cold Storage & Logistics. I'd like to drop off a few pairs of the TEGERA PRO 9100 for your team to try. I'll send a short email too. You can reach me at (555) 555-0100. Again, Your Name, (555) 555-0100. Thanks.
 
 **Objections**
 - *"We already have a supplier."* Most companies do. Tegera ships through Fastenal, MSC and other major distributors, so you may not need a new vendor, just a better glove on the same order. Worth comparing your one or two highest-volume gloves?
@@ -66,7 +84,7 @@ Hi [First name],
 
 With Michigan winter on the way, cold, wet hands are about to become the main reason gloves come off.
 
-I'm the Michigan rep for Tegera gloves by Ejendals, and I cover the Saginaw, Bay City and Thumb area in person: plant walks, fit checks and glove trials. For drivers, dock and yard crews, the TEGERA 295 and TEGERA 43001 are where I'd start, and you can order them through Fastenal, MSC and other major distributors.
+I'm the Michigan rep for Tegera gloves by Ejendals, and I cover the Saginaw, Bay City and Thumb area in person: plant walks, fit checks and glove trials. For drivers, dock and yard crews, the TEGERA PRO 9100 and TEGERA 295 are where I'd start, and you can order them through Fastenal, MSC and other major distributors.
 
 Would you be open to a 15-minute call, or a quick visit with samples?
 
@@ -113,7 +131,7 @@ Not the right person, or prefer no follow-ups? Just reply and let me know.
 ```
 Hi [First name],
 
-Following up on my note about gloves for drivers, dock and yard crews. If it's easier, I can drop off a few pairs of the TEGERA 295 in different sizes so your team can try them on shift. Is there a good day this week or next?
+Following up on my note about gloves for drivers, dock and yard crews. If it's easier, I can drop off a few pairs of the TEGERA PRO 9100 in different sizes so your team can try them on shift. Is there a good day this week or next?
 
 Your Name
 Territory Sales Representative | Your Company

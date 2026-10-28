@@ -1,0 +1,15 @@
+GLOVE|9100|TEGERA® PRO 9100|For the best grip and dexterity
+GLOVE|9105|TEGERA® PRO 9105|Designed for maximum fit
+GLOVE|9125|TEGERA® PRO 9125|Perfect for hand-held tools
+GLOVE|8850|TEGERA® OIL GRIP 8850|For dry, moist, and slightly oily environments
+GLOVE|8846|TEGERA® 8846|The world's thinnest cut F glove
+GLOVE|8855|TEGERA® OIL GRIP 8855|Versatile cut C glove with touchscreen functionality
+GLOVE|9128|TEGERA® PRO 9128|Good grip on slippery surface
+GLOVE|117|TEGERA® 117|Cold-insulating quality leather glove for versatile work
+GLOVE|8810|TEGERA® INFINITY 8810|Super soft winter glove, palm dipped
+SHOE|7128|JALAS® ZENIT EVO 7128|Comfort for long days at work, laces
+SHOE|2068|JALAS® TIO 2068|Three In One sole. Tri-panel BOA
+SHOE|2028|JALAS® TIO 2028|Three In One sole. Water repellent
+HAZARD|Strain injuries from constant handling
+HAZARD|Constant load on feet during long shifts
+HAZARD|Oily and slippery work environments

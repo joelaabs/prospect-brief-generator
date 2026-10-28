@@ -21,10 +21,18 @@ _Generated from OSHA 2025 data and the Plastics, Rubber & Chemicals playbook. No
 - hot molds and heated materials
 - chemicals and liquids
 
-## Recommended Tegera styles
-- **TEGERA 43001**: cut protection for trimming and deflashing. Most popular cut-resistant glove; PU palm, good grip, high flexibility. [Product page](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
-- **Tegera chemical & liquid protection gloves**: chemical and liquid handling. Category: chemical and liquid protection. [Product page](https://www.ejendals.com/products/gloves/chemical-and-liquid-protection-gloves/)
-- **Tegera heat protection gloves**: hot molds and heated materials. Category: heat protection. [Product page](https://www.ejendals.com/products/gloves/heat-protection-gloves/)
+## Recommended Tegera gloves
+1. **TEGERA 43001**: Most popular cut-resistant glove with good grip. PU palm dip, high flexibility. _(Ejendals cut and chemical ranges, matched to trimming, hot molds and chemicals)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/43001/)
+2. **TEGERA 8846**: The world's thinnest cut F glove. Cut F, CRF® Omni technology, 21-gauge knit. _(Ejendals cut and chemical ranges, matched to trimming, hot molds and chemicals)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/cut-protection-gloves/8846/)
+3. **TEGERA CHEMFORCE 494**: Multi-protection glove: chemical, cut and heat. Winter lined, neoprene coated. _(Ejendals cut and chemical ranges, matched to trimming, hot molds and chemicals)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/chemical-and-liquid-protection-gloves/)
+4. **TEGERA CHEMFORCE 84520**: Silicone-free disposable glove with Type A chemical protection. Nitrile. _(Ejendals cut and chemical ranges, matched to trimming, hot molds and chemicals)_ [See on ejendals.com](https://www.ejendals.com/products/gloves/chemical-and-liquid-protection-gloves/)
+
+Lead with #1 and #2. Ratings shown are Ejendals' EU ratings; confirm US (ANSI) ratings before quoting them.
+
+## JALAS footwear (secondary: mention once, in follow-up 2 or on a call)
+- No industry-specific picks; see ejendals.com/jalas
+
+**Sources:** [Ejendals cut and chemical ranges, matched to trimming, hot molds and chemicals](https://www.ejendals.com/products/gloves/cut-protection-gloves/)
 
 ## Likely pain points (industry-typical, inferred)
 - Cuts from trimming knives and sharp parts
@@ -40,7 +48,7 @@ _Generated from OSHA 2025 data and the Plastics, Rubber & Chemicals playbook. No
 **Safety / EHS manager**
 > Hi [First name], Your Name with Your Company, the Michigan rep for Tegera gloves. Did I catch you at an OK time for 30 seconds?
 > Molding and chemical plants usually juggle cut, heat and chemical gloves, and I can cover all three with one line. Trimming parts, handling hot molds and working around chemicals usually means three different gloves, and people don't always switch.
-> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 43001 and Tegera chemical & liquid protection gloves in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
+> Ask 1–2 discovery questions (below), then: "What I'd suggest is a quick trial. I drop off the TEGERA 43001 and TEGERA 8846 in a few sizes, your team wears them for a week or two, and they tell you what they think. Would [day] work for me to stop by?"
 
 **Purchasing**
 > Hi [First name], Your Name with Your Company. I'm the Michigan rep for Tegera gloves, which ship through Fastenal, MSC and other major distributors. Quick question: which gloves does Sablewood Molded Plastics buy the most of? I'd like to show you a Tegera option on cost per worker, not just price per pair. Is a 15-minute call this week possible?
@@ -68,7 +76,7 @@ Hi [First name],
 
 I'm guessing glove choices at your Sterling Heights location vary by area and shift, and some people skip them.
 
-I'm the Michigan rep for Tegera gloves by Ejendals, and I cover Southeast Michigan in person: plant walks, fit checks and glove trials. For molding, trimming and chemical handling, the TEGERA 43001 and Tegera chemical & liquid protection gloves are where I'd start, and you can order them through Fastenal, MSC and other major distributors.
+I'm the Michigan rep for Tegera gloves by Ejendals, and I cover Southeast Michigan in person: plant walks, fit checks and glove trials. For molding, trimming and chemical handling, the TEGERA 43001 and TEGERA 8846 are where I'd start, and you can order them through Fastenal, MSC and other major distributors.
 
 Would you be open to a 15-minute call, or a quick visit with samples?
 

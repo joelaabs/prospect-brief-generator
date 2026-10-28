@@ -27,9 +27,9 @@ master_target_list.csv  +  HubSpot import file
    │  pipeline/build_crm.py
    ▼
 Excel CRM: dropdowns · color-coded pipeline status · auto follow-up dates · live dashboard
-   │  tool/generate.py + tool/playbooks.py
+   │  tool/generate.py + tool/playbooks.py + tool/catalog.py (manufacturer catalog)
    ▼
-Per company: brief (.md) · safety / purchasing / general-inbox emails · 2 follow-ups ·
+Per company: industry-matched products · brief (.md) · safety / purchasing / general-inbox emails · 2 follow-ups ·
              voicemail · call scripts with objection handling · A/B email version
    │
    ├─ Tier A: deep, sourced web research with Claude Code (/research)
@@ -44,7 +44,8 @@ Per company: brief (.md) · safety / purchasing / general-inbox emails · 2 foll
 | `pipeline/build_target_list.py` | OSHA data → ranked company list and HubSpot import file |
 | `pipeline/build_crm.py` | Master list → Excel CRM (Companies, Dashboard, How to use, Lists tabs) |
 | `tool/generate.py` | CRM → briefs and 13 outreach columns. Never overwrites the rep's edits; re-runnable |
-| `tool/playbooks.py` | Industry knowledge for 15 groups: hazards, matched products, pain points, openers, questions |
+| `tool/playbooks.py` | Industry knowledge for 15 groups: hazards, pain points, openers, discovery questions |
+| `tool/catalog.py` + `catalog/` | 165 TEGERA gloves and JALAS shoes plus 26 industry pages collected from ejendals.com. Maps each CRM industry (for example, roofing, stamping or food processing) to the gloves the manufacturer recommends for it |
 | `tool/config.py` | Rep name, signature (CAN-SPAM address and opt-out), distributors |
 | `CLAUDE.md`, `.claude/commands/` | Rules and slash commands for Claude Code: `/research`, `/generate`, `/emails`, `/followups`, `/weekly`, `/hubspot`, `/find`, `/import` |
 | `sample/` | **Fictional** companies, a sample CRM and generated briefs, so you can see the output |
@@ -71,6 +72,7 @@ python3 tool/generate.py --crm CRM.xlsx --tier A --region Southeast   # one slic
 ## Design choices
 - **Data-first targeting:** OSHA filings give real headcount, location, industry and injury history,
   which is better than a purchased list, and free.
+- **Manufacturer-grounded recommendations:** product picks come from the manufacturer's own industry pages, not one generic list, with sources linked in every brief.
 - **Effort matched to value:** large accounts get sourced AI research; small ones get automated templates.
 - **Accuracy guardrails:** generated briefs are labeled "industry-typical" until researched. Researched
   briefs cite a source for every fact. Emails are never guessed or invented.
