@@ -1,0 +1,13 @@
+# real prospect data and outputs stay private
+*.xlsx
+!sample/Sample_CRM.xlsx
+*_backup_*.xlsx
+output/
+data/
+briefs/
+!sample/briefs/
+my_offer.md
+*.csv
+!sample/*.csv
+__pycache__/
+.DS_Store
